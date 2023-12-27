@@ -1,0 +1,9 @@
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\repository\TaskRepository.java
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\domain\exception\TaskNotFoundException.java
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\domain\exception\TaskAlreadyExistsException.java
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\config\FlyWayConfig.java
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\domain\exception\TaskServiceException.java
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\domain\model\Task.java
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\service\TaskService.java
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\Application.java
+D:\SpringBoot\tasks\src\main\java\es\adasoft\tasks\controller\TasksRestController.java

@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS tasks (
+    id BIGINT  PRIMARY KEY,
+    name VARCHAR(255),
+    completed BOOLEAN DEFAULT false,
+    start_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    end_date TIMESTAMP
+);

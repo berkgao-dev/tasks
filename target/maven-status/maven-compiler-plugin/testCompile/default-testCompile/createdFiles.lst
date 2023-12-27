@@ -1,0 +1,5 @@
+es\adasoft\tasks\ApplicationTest.class
+es\adasoft\tasks\controller\TasksRestControllerTest.class
+es\adasoft\tasks\domain\model\TaskTest.class
+es\adasoft\tasks\service\TaskServiceTest.class
+es\adasoft\tasks\controller\TasksRestControllerTest$Config.class

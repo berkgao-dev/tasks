@@ -1,0 +1,9 @@
+es\adasoft\tasks\Application.class
+es\adasoft\tasks\domain\exception\TaskServiceException.class
+es\adasoft\tasks\domain\exception\TaskNotFoundException.class
+es\adasoft\tasks\domain\model\Task.class
+es\adasoft\tasks\repository\TaskRepository.class
+es\adasoft\tasks\config\FlyWayConfig.class
+es\adasoft\tasks\service\TaskService.class
+es\adasoft\tasks\controller\TasksRestController.class
+es\adasoft\tasks\domain\exception\TaskAlreadyExistsException.class
